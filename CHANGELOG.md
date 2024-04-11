@@ -1,5 +1,11 @@
 # Changelog
 
+## [10.5.3](https://github.com/npm/cli/compare/v10.5.2...v10.5.3) (2024-04-11)
+
+### Documentation
+
+* [`c16dd4e`](https://github.com/npm/cli/commit/c16dd4e46b58d6c4490284e6edc5c255862e322b) [#7367](https://github.com/npm/cli/pull/7367) Document that overrides only work in the root `package.json` (#7367) (@s100)
+
 ## [10.5.2](https://github.com/npm/cli/compare/v10.5.1...v10.5.2) (2024-04-10)
 
 ### Bug Fixes
